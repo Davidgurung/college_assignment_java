@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=SeniorDeveloper
+comment1.params=platform\ interviewer_name\ working_hours\ salary\ contactPeriod
+comment1.target=SeniorDeveloper(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment10.params=
+comment10.target=void\ contract_termination()
+comment11.params=
+comment11.target=void\ print()
+comment12.params=
+comment12.target=void\ display_the_detail_of_developer()
+comment2.params=
+comment2.target=java.lang.String\ getJoiningDate()
+comment3.params=
+comment3.target=java.lang.String\ getStaffRoomNumber()
+comment4.params=
+comment4.target=float\ getAdvanceSalary()
+comment5.params=
+comment5.target=boolean\ getAppointed()
+comment6.params=
+comment6.target=boolean\ getTerminated()
+comment7.params=salary
+comment7.target=void\ setSalary(float)
+comment8.params=contractPeriod
+comment8.target=void\ setContractPeriod(int)
+comment9.params=developer_name\ joiningDate\ advanceSalary\ staffRoomNumber
+comment9.target=void\ hire_developer(java.lang.String,\ java.lang.String,\ float,\ java.lang.String)
+numComments=13

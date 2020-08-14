@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Developer
+comment1.params=platform\ interviewer_name\ working_hours
+comment1.target=Developer(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getPlatform()
+comment3.params=
+comment3.target=java.lang.String\ getInterviewer_name()
+comment4.params=
+comment4.target=int\ getWorking_hours()
+comment5.params=developer_name
+comment5.target=void\ setDeveloper_name(java.lang.String)
+comment6.params=
+comment6.target=void\ display()
+numComments=7
